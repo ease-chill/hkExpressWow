@@ -7,7 +7,7 @@ if os_name == 'nt':
 elif os_name == 'posix':
     OS = 'mac-arm64'
 
-URL = 'https://cathaypacific.queue-it.net/?c=cathaypacific&e=hkewowflyandshinehk&cid=en-US&l=HKEXPRESS%20WOW2.0%20FlyAndShine%20%28Campaign_HK%29&t_wowParamUrl=hk/en-hk'
+URL = 'https://cathaypacific.queue-it.net/?c=cathaypacific&e=hkewowflyandshinegba&cid=en-US&t_wowParamUrl=gba/en-cn'
 
 CHROMEDRIVER_URL = 'https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json'
 
